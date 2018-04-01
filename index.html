@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Cover Letter Generator</title>
+</head>
+
+<body>
+  <h1>Fill in info</h1>
+  <!-- All of the Node.js APIs are available in this renderer process. -->
+
+  <form id="info">
+    Company Name:
+    <input type="text" id="cname">
+    <br> Job Position:
+    <input type="text" id="jname">
+    <br> Skills:
+    <input type="text" id="skills" placeholder="familiar with ...">
+    <br>
+    <br>
+    <button onclick="generateCL()" type="button">Generate CL</button>
+    <button type="button" id="copybtn" data-clipboard-target="#result">Copy Text</button>
+  </form>
+
+  <p id="result"></p>
+
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script src="coverLetter.js"></script>
+
+</body>
+
+</html>
