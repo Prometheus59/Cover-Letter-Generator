@@ -7,7 +7,8 @@
     "start": "electron ."
   },
   "dependencies": {
-    "clipboard": "^2.0.0"
+    "clipboard": "^2.0.0",
+    "electron": "^8.0.0"
   },
   "devDependencies": {},
   "repository": {
