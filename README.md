@@ -2,6 +2,10 @@
 
 This is a cover letter generator that I only used a handful of times. While this is not a tool that I'd recommend (its best to tailer a cover letter to a job if you're going to do it at all) i'm leaving it here as a learning tool  to refer to later in learning the electon platform.
 
+Inline-style: 
+![alt text](https://github.com/Prometheus59/Cover-Letter-Generator/blob/master/cv-generator.png)
+
+
 ## To Use
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
