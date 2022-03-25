@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "clipboard": "^2.0.0",
-    "electron": "^8.0.0"
+    "electron": "^13.6.6"
   },
   "devDependencies": {},
   "repository": {
